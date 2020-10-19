@@ -1,5 +1,15 @@
 # Movie-Recommender-system-using-poster
 
+## **Team**
+Guru Sarath
+
+Priyanka 
+
+Vaishnavi
+
+Adithiya
+
+
 ## **Inspiration** 
 Last night our team had a movie night and that made us realize how difficult it is to decide on a movie. People say "Don't judge a book by its cover", but a **movie can definitely be judged by its poster**. That's when we thought, how life can be made easier with an app that takes in a favorite movie's poster and recommend similar ones!
 
