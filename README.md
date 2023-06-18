@@ -9,6 +9,9 @@ Vaishnavi
 
 Adithiya
 
+## **Mathworks Blog Post**
+https://blogs.mathworks.com/student-lounge/2021/01/14/matlab-machine-learning-and-movies-the-perfect-combination/#like
+
 ## **DEVPOST**
 https://devpost.com/software/movie-recommenders-using-poster-ma64pt
 
